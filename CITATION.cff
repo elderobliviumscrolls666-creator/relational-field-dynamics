@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Relationale Felddynamik – Relational Field Dynamics"
+message: "If you use this work, please cite it as follows."
+type: software
+authors:
+  - family-names: Matthiesen
+    given-names: Enno
+repository-code: https://github.com/elderobliviumscrolls666-creator/relational-fielddynamik
+license: CC-BY-4.0
+date-released: 2026-03-12
